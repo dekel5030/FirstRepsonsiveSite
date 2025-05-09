@@ -51,5 +51,3 @@ for (let i = 0; i < 8; i++) {
           <div class="project-description">Short description of the project. Just a couple sentences will do.</div> 
         </article>`;
 }
-
-alert(window.innerWidth);
